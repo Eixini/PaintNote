@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>icons/back.png</file>
+    <file>icons/forward.png</file>
+    <file>icons/save.png</file>
+    <file>icons/garbage.png</file>
+    <file>icons/colors.png</file>
+    <file>icons/frame.png</file>
+  </qresource>
+</RCC>
